@@ -1,0 +1,22 @@
+{
+  "name": "meska",
+  "version": "0.0.1",
+  "description": "Meska Music Bot",
+  "main": "bot.js",
+  "license": "MIT",
+  "author": {
+    "name": "Meska",
+    "email": "ardaengnebcim@gmail.com"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "install": "npm install",
+    "nodemon": "nodemon bot.js"
+  },
+  "keywords": [
+    "meska"
+  ]
+}
